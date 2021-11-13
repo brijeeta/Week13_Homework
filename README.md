@@ -15,7 +15,7 @@ The task for this assignment is to build the back-end for an e-commerce site by 
 ## Demo
 
 * [GitHub Repository](https://github.com/brijeeta/Week13_HomeWork/)
-* [Demo video part 1](https://watch.screencastify.com/v/btKz2GXXHI3vV4z8xiWX)
+* [Demo video ](https://watch.screencastify.com/v/btKz2GXXHI3vV4z8xiWX)
 
 
  
